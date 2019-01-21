@@ -104,58 +104,22 @@ var saveAs=saveAs||navigator.msSaveBlob&&navigator.msSaveBlob.bind(navigator)||f
 	</div>
 	<div id="store-area" hidden><tw-storydata name="it was a dark and stormy night" startnode="1" creator="Twine" creator-version="2.2.1" ifid="4BE061C8-9E1C-4C28-ABBF-FAED03F965B5" zoom="1" format="SugarCube" format-version="2.21.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
 
-body, tw-story
+
+body
 {
-  font-family: 'ZCOOL QingKe HuangYou', cursive;
-  font-size: 18px;
+  font-size: 200%;
+  font-family: 'ZCOOL QingKe HuangYou';
   background-color: #010101;
   color: FEFEFE
-  
-}
-
-tw-story {
-	width: 500px;
 }
 
 
-h1 {
-	font-size: 34px;
-	font-weight: 200;
-}
 
-b, strong {
-	font-weight: normal;
-	color: #000263;
-}
 
-i {
-	font-style: normal;
-	color: #630034;
-}
 
-tw-link {
-	color: #BF0101;
-	font-weight: 300%;
-}
 
-tw-link:hover {
-	color: #B536F5;
-}
-
-tw-sidebar {
-	display: none;
-}
-
-ul {
-	list-style: none;
-	text-align: justify;
-}
-
-img {
-	width: 300px;
-}
-
-</style><script role="script" id="twine-user-script" type="text/twine-javascript">// Begin Inventory Macros
+</style><script role="script" id="twine-user-script" type="text/twine-javascript">UIBar.destroy()
+// Begin Inventory Macros
 // Original macros by F2Andy: http://strugglingwithtwine.blogspot.ca/2014/03/handling-inventory.html
 //
 // Instructions:
@@ -255,9 +219,12 @@ macros.emptyInv = {
 };
 // End Inventory Macros
 
-</script><tw-passagedata pid="1" name="Title Screen" tags="" position="410,185" size="100,100">&lt;img src=&quot;https://xoxokristal.files.wordpress.com/2016/11/5cd4458c63f2dad6ec22177880affd07.gif?w=349&amp;h=232&quot; /&gt;
 
-Enter [[Here|page2]]
+
+!function(){"use strict";function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}(),Furl=function(){function Furl(current,append){if(_classCallCheck(this,Furl),Object.defineProperties(this,{node:{value:current},childNodes:{value:[]},value:{writable:!0,value:""},append:{writable:!0,value:!!append},abortTyping:{writable:!0,value:!1}}),this.node.nodeValue&&(this.value=this.node.nodeValue,this.node.nodeValue=""),!this.node.style||"none"!==this.node.style.display)for(var childNodes=this.node.childNodes;childNodes.length>0;)this.childNodes.push(new Furl(childNodes[0],!0)),this.node.removeChild(childNodes[0])}return _createClass(Furl,[{key:"finish",value:function(){for(this.abortTyping=!0;this.unfurl(););}},{key:"unfurl",value:function(parent){if(this.append&&(parent&&parent.appendChild(this.node),this.append=!1),this.value)return this.node.nodeValue+=this.value[0],this.value=this.value.slice(1),!0;for(var current=this.node,i=0,len=this.childNodes.length;i<len;++i)if(this.childNodes[i].unfurl(current))return!0;return!1}}],[{key:"typeout",value:function(content,typeDelay,startDelay){function typer(){if(!furled.abortTyping)var current=passage(),typerId=setInterval(function(){!furled.abortTyping&&passage()===current&&furled.unfurl()||clearInterval(typerId)},typeDelay)}var furled=new Furl(content);return startDelay?setTimeout(typer,startDelay):typer(),furled}}]),Furl}(),tagRe=/^t8n-typewriter-(\d+)(?:-(\d+))?$/;postrender["t8n-typewriter-handler"]=function(content){$(document).off("keypress.t8n-typewriter");for(var current=this.title,tags=this.tags,i=0;i<tags.length;++i){var match=tagRe.exec(tags[i]);if(null!==match){if("break"===function(){var furled=Furl.typeout(content,Number(match[1]),Number(match[2]));return $(document).on("keypress.t8n-typewriter",function(ev){32!==ev.which||ev.target!==document.body&&ev.target!==document.documentElement||!State.passages.slice(0,-1).some(function(pn){return pn===current})||(ev.preventDefault(),$(document).off("keypress.t8n-typewriter"),furled.finish())}),"break"}())break}}}}();
+
+
+</script><tw-passagedata pid="1" name="Title Screen" tags="" position="410,185" size="100,100">Enter [[Here|page2]]
 
 </tw-passagedata><tw-passagedata pid="2" name="page2" tags="" position="349,310" size="100,100">Text TEXT text [[Click able link|page3]]</tw-passagedata><tw-passagedata pid="3" name="page3" tags="" position="229,430" size="100,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata></div>
 	<script id="script-sugarcube" type="text/javascript">
