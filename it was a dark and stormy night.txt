@@ -15,6 +15,9 @@ Possible titles
 ________________
 
 
+Warning: this story contains disturbing subjects (parental infanticide, murder, alcoholism…) that may not be appropriate for younger audiences. Viewer discretion is advised. 
+
+
 “If a tree falls in the forest with no ears to hear, does it make a sound?”
 *^for quote make it sort of animated, typewriter-esque
 
@@ -110,39 +113,122 @@ First things first:
 
 
 1. Move the body. Hide the crime, do no time.
-2. Go to the kitchen. Gotta get clean.
-3. Head straight to the car. Things’re too much now. Might as well leave it.
-4. Call the cops. Can’t run, can’t hide. His demons’ll find him one day, so why not now?
+2. Head straight to the car. Things’re too much now. Might as well leave it.
 
 
+A
 
 
+Boy hasn’t eaten a good meal in ages; he’s all skin and bones. Makes it easier to carry him, though.
 
 
-Decisions determine end — decisions will determine what endings they get
-Three or four points where you can drastically change the story and other stuff where nothing happens
+He walks into the kitchen.
 
 
+Guy combs through the cupboards, eyes skimming over bare shelves, empty containers and rotting wood. He finds a garbage bag for the body but there ain’t nothing else other than an old, flickery flashlight, a tiny little crucifix and some rusty silverware. He goes and looks some more, finds some rope and a shovel in the shed out back.
 
 
+He doesn’t want to attract too much attention and he ain’t got enough pockets to carry everything, so he decides to take 
 
 
+1. The flashlight and the shovel.
+2. The rope and some makeshift weights.
 
 
-
-
-
-
-His sins stared back at him with milk eyes.
+ 
 
 
 ________________
 
 
-He took a bite. Let it sit in his mouth for a bit like he was feasting on holy bread.
+Flashlight and shovel
+He pockets the flashlight, tucks the shovel under his arm.
 
 
-The meat tasted sweet. 
+He heads back to where the boy was, takes the garbage bag from earlier and stuffs the kid in there like them mags he used to keep under his mattress.
+
+
+Fella’s got a few options now, but he thinks it’s probably best if he 
+1. Hides the body in the forest. Place’s dark, deep and far from lovely. Not many people go there.
+2. Hides the body in the dump. They say once a man’s trash, another man’s treasure, but let’s face it—folks these days like shiny, new things, not shabby, run-down crap. Boy’ll probably be rot and mold before he’s found. 
+
+
+Rope and “weights”
+He pockets the rope and takes a couple of empty milk jugs, fills ‘em up with water before capping ‘em off. 
+
+
+He heads back to where the boy was, takes the garbage bag from earlier and stuffs the kid in there like them mags he used to keep under his mattress.
+
+
+Fella’s got a few options now, but he thinks it’s probably best if he 
+1. Hides the body in the lake. The milk jugs’ll weigh it down, make sure the kid don’t float. He’ll sink so deep that no one’ll ever fish him out.
+2. Hides the body in the dump. They say once a man’s trash, another man’s treasure, but let’s face it—folks these days like shiny, new things, not shabby, run-down crap. Boy’ll probably be rot and mold before he’s found.
+
+
+
+
+Crucifix
+It catches his eye for some reason, the little man on the cross.
+
+
+Makes him remember all those boring days at Sunday school, them rain-grey days where they’d sit in a circle and talk about this Jesus fella and how He died for their sins. How they broke bread and drank wine in His name.
+
+
+It was that memory that gave him the idea—something he didn’t consider, ‘cause who in the hell would?
+
+
+He looks down at the boy, hears Father Josiah’s voice reciting, “Take this and eat, for this is my body.”
+
+
+He thinks about it for a bit, hates himself a bit for even thinking about it but the more he thinks, the more he realizes that this might just be his best option.
+
+
+The kitchen knife winks at him from where it’s sitting on the counter.
+
+
+***
+
+
+It smells good, he’ll say that.
+
+
+Not too shabby.
+
+
+He hates the spit pooling in his mouth at the scent, tries to cling onto the sick stinging heat rising in his throat. 
+
+
+Like the kid, he hasn’t had a good meal in a long while. 
+
+
+He takes a bite. Lets it sit in his mouth for a bit like he’s feasting on holy bread.
+
+
+The meat tasted sweet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Secret
+
+
+His sins stare back at him with milk eyes.
+
+
+
+
 
 
 
@@ -164,12 +250,42 @@ Dividers at end —
 
 
 ✖✖✖ — bad end
+* Get caught
 
 
-⚪⚪⚪ — good end
-
-
-⩶ — neutral end
+⚪⚪⚪ — “good” end
+* Get away with shit, but you regret it
 
 
 *** — secret end
+* Eat the kid
+
+
+
+
+1. Move the body. Hide the crime, do no time.
+   * Go into kitchen first
+      * Get the kid clean
+      * Get a body bag
+   * Option to eat kid is in description here somewhere^^
+   * Options to exit by front door or back door
+      * Front door - caught by neighbour 
+         * Kill neighbour (No witnesses)
+            *          * Lie to neighbour
+            * “Taking out the trash.”
+            *          * Back door - not caught - you see your neighbour and wait for them to leave 
+   * Then get options to move body to where
+      * Lake
+      * Forest
+      * Dump
+1. Head straight to the car. Things’re too much now. Might as well leave it.
+   * Options to exit by front door or back door (get all options from other thing)
+      * Police eventually stops you due to speeding
+      * He notices your demeanor
+         * Lie
+         * Run away
+         * Kill them
+            * They’ll shoot you and you die
+      * Mom calls and you have to lie again
+         *  
+         *
