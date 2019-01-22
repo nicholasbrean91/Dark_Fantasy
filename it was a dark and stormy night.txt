@@ -15,6 +15,9 @@ Possible titles
 ________________
 
 
+Warning: this story contains disturbing subjects (parental infanticide, murder, alcoholism…) that may not be appropriate for younger audiences. Viewer discretion is advised. 
+
+
 “If a tree falls in the forest with no ears to hear, does it make a sound?”
 *^for quote make it sort of animated, typewriter-esque
 
@@ -110,17 +113,11 @@ First things first:
 
 
 1. Move the body. Hide the crime, do no time.
-2. Go to the kitchen. Gotta get clean.
-3. Head straight to the car. Things’re too much now. Might as well leave it.
-4. Call the cops. Can’t run, can’t hide. His demons’ll find him one day, so why not now?
+2. Head straight to the car. Things’re too much now. Might as well leave it.
 
 
 
 
-
-
-Decisions determine end — decisions will determine what endings they get
-Three or four points where you can drastically change the story and other stuff where nothing happens
 
 
 
@@ -134,9 +131,6 @@ Three or four points where you can drastically change the story and other stuff 
 
 
 His sins stared back at him with milk eyes.
-
-
-________________
 
 
 He took a bite. Let it sit in his mouth for a bit like he was feasting on holy bread.
@@ -164,12 +158,42 @@ Dividers at end —
 
 
 ✖✖✖ — bad end
+* Get caught
 
 
-⚪⚪⚪ — good end
-
-
-⩶ — neutral end
+⚪⚪⚪ — “good” end
+* Get away with shit, but you regret it
 
 
 *** — secret end
+* Eat the kid
+
+
+
+
+1. Move the body. Hide the crime, do no time.
+   * Go into kitchen first
+      * Get the kid clean
+      * Get a body bag
+   * Option to eat kid is in description here somewhere^^
+   * Options to exit by front door or back door
+      * Front door - caught by neighbour 
+         * Kill neighbour (No witnesses)
+            *          * Lie to neighbour
+            * “Taking out the trash.”
+            *          * Back door - not caught - you see your neighbour and wait for them to leave 
+   * Then get options to move body to where
+      * Lake
+      * Forest
+      * Dump
+1. Head straight to the car. Things’re too much now. Might as well leave it.
+   * Options to exit by front door or back door (get all options from other thing)
+      * Police eventually stops you due to speeding
+      * He notices your demeanor
+         * Lie
+         * Run away
+         * Kill them
+            * They’ll shoot you and you die
+      * Mom calls and you have to lie again
+         *  
+         *
